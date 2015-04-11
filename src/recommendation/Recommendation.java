@@ -17,6 +17,7 @@ public class Recommendation {
     public static void main(String[] args) {
         // TODO code application logic here
         //hi sample
+        System.out.println("Hello World");
     }
     
 }
