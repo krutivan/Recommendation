@@ -18,6 +18,7 @@ public class Recommendation {
         // TODO code application logic here
         //hi sample
         System.out.println("Hello World");
+        System.out.println("Kruti");
     }
     
 }
